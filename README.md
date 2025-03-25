@@ -33,6 +33,7 @@ This project aims to create a dynamic Power BI dashboard to visualize and analyz
 - Power BI Desktop: Ensure you have Power BI Desktop installed to create and interact with the dashboard.
 - Dataset: Access to the dataset containing Spotify streaming data is required for dashboard creation.
 - # Spotify Dashboard Project
+![Spotify_Image](https://github.com/user-attachments/assets/fd309ae4-6d95-4b25-abc5-e184c0ad6ea5)
 
   
 
